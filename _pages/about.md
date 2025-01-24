@@ -7,6 +7,50 @@ redirect_from:
   - /about.html
 ---
 I'm a last year master student from Electrical and Electronic Engineering, [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. My research interest includes Machine Learning, Noisy Label and computational photography.
+
+# 👋 Hi, I'm Qiuhao Liu
+
+## 🎓 Education
+- 📚 **M.Sc. in Electrical and Electronic Engineering** @ Nanyang Technological University _(2024-2025)_
+  - Research Focus: Deep Learning Solution to Build RIS-empowered Networks
+  - Advisor: [Prof. Chau Yuen](https://blogs.ntu.edu.sg/chau-yuen/)
+
+- 🎓 **B.Eng. in Electronics and Information Engineering** @ Beijing Jiaotong University _(2020-2024)_
+  - GPA: 3.6/4.0 (Top 10%)
+  - Key Awards: Merit Student of Beijing (2021), First Prize Scholarship (2021)
+
+## 📝 Publications
+- **Performance Analysis of XL-MIMO-OFDM Systems for High-Speed Train Communications**
+  - IEEE ICC Workshops, 2023
+  - Authors: **Qiuhao Liu**, Yonghao Lin, Jiakang Zheng, et al.
+
+- **High-Speed Train Communications with XL-MIMO-OFDM: Performance Analysis and Optimization for URLLC**
+  - Submitted to IEEE Transactions on Wireless Communications
+  - Authors: **Qiuhao Liu**, Jiakang Zheng, Jiayi Zhang, et al.
+
+## 🔬 Research Experience
+### Power Control in URLLC for XL-MIMO Systems _(2023-2024)_
+- Developed power control Path-Following Algorithm (PFA) for URLLC
+- Achieved 60% improvement in reliability
+- Evaluated ELAAs performance in LoS environments
+
+### XL-MIMO for High-Speed Train Communications _(2022-2023)_
+- Optimized antenna configurations for high-mobility scenarios
+- Achieved 3x spectral efficiency improvement
+- Published findings in IEEE ICC Workshop
+
+## 🛠 Technical Skills
+- **Programming Languages**: C/C++, Python, MATLAB
+- **Deep Learning Frameworks**: PyTorch, TensorFlow
+
+## 🌐 Languages
+- English (IELTS: 7.5, GRE: 321)
+- Mandarin (Native)
+
+## 📫 Contact
+- Email: QIUHAO001@e.ntu.edu.sg
+- Phone: (+86) 17380666715
+  
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
