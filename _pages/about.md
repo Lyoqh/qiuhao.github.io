@@ -1,11 +1,64 @@
 ---
 permalink: /
-title: "Hi, I am Qiuhao Liu ( 刘秋浩 )"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<div align="center">
+  <h1>👋 你好，我是郑雨萱</h1>
+  <h3>一名热爱数字营销与智能媒体的学生研究者</h3>
+</div>
+
+## 🎓 教育背景
+
+- 📚 香港大学 | 市场营销学（硕士）| 2024.9-2025.6
+- 🎯 专业方向：网络与新媒体（智能融媒体运营方向）
+- 🏫 中国传媒大学 | 传媒人工智能专业 | 2022.2-2023.1
+
+## 💼 实习经历
+
+### 雁主品牌新媒体运营实习生 (2023.4-2023.10)
+- 负责【字节跳动招聘】官方渠道运营
+- 基于QQ端运营8个字节跳动24校招群
+- 策划并执行2024字节跳动校招空中宣讲会
+
+### Whaler捕鲸船DAO运营实习生 (2022.7-2022.11)
+- 运营公众号@Whaler捕鲸船
+- 筛选Web3领域热点制作每日资讯
+
+## 🏆 获奖经历
+
+- 🥇 第12届全国大学生市场调查与分析大赛 | 国家级一等奖
+- 🥈 第9届中国大学生公关关系策划创业大赛 | 国家级二等奖
+- 🎯 "亿屏"玩出新花样，客厅场景你定义！智能大屏创意大赛 | 三等奖
+
+## 🛠 技能特长
+
+### 技术栈
+- 设计工具：Figma, PS, PR
+- 数据分析：SQL, SPSS, Gephi, Tableau
+- 办公软件：Office全家桶
+
+### 证书
+- CET-6
+- 雅思7 (6)
+- 市场调查与分析（CRA）证书
+- 演出经纪人资格证
+- 机动车驾驶证（C1）
+
+## 📫 联系方式
+
+- 📧 Email: yuxuan0281@163.com
+- 📱 Phone: 150-3881-8812
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" />
+</div>
+
 I'm a last year master student from Electrical and Electronic Engineering, [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. My research interest includes Machine Learning, Noisy Label and computational photography.
 
 # 👋 Hi, I'm Qiuhao Liu
