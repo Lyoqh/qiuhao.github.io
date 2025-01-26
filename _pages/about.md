@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-layout: default
-title: "Yuxuan Zheng (郑雨萱)"
-author_profile: true
----
+
 
 #  Hi, I am Yuxuan Zheng (郑雨萱)
 
