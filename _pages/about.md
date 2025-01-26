@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Qiuhao Liu ( 刘秋浩 )"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ title: "Yuxuan Zheng (郑雨萱)"
 author_profile: true
 ---
 
-# 👋 Hi, I am Yuxuan Zheng (郑雨萱)
+#  Hi, I am Yuxuan Zheng (郑雨萱)
 
 I am a Master's student in Marketing at [The University of Hong Kong (HKU)](https://www.hku.hk/). I previously earned my Bachelor's degree in Internet and New Media at [Communication University of China](https://www.cuc.edu.cn/), where I specialized in intelligent media operations and big data applications. My professional experiences and academic interests center on **digital marketing**, **data analysis**, and **intelligent media technologies**.
 
