@@ -15,7 +15,7 @@ I am a Master's student in Marketing at [The University of Hong Kong (HKU)](http
 
 ---
 
-## 📚 Education
+# 📚 Education
 
 - **M.Sc. in Marketing**, The University of Hong Kong (2024.09 - 2025.06 expected)
 - **B.A. in Internet and New Media**, Communication University of China (2020.09 - 2024.06)  
@@ -26,26 +26,26 @@ I am a Master's student in Marketing at [The University of Hong Kong (HKU)](http
 
 ---
 
-## 💼 Professional Experiences
+# 💼 Professional Experiences
 
-### **ByteDance** (2023.04 - 2023.10)  
+## **ByteDance** (2023.04 - 2023.10)  
 **Brand New Media Operations Intern**
 - Managed official media accounts (WeChat, TikTok, internal promotions).
 - Designed recruitment marketing campaigns and creative content for promotion.
 - Collected and analyzed user data to optimize media strategies, resulting in a 45% engagement boost.
 
-### **Whaler Consulting** (2022.07 - 2022.12)  
+## **Whaler Consulting** (2022.07 - 2022.12)  
 **AO Business Development Intern**
 - Conducted market research using tools like vlookup to analyze business opportunities.
 - Assisted with industry forums and external partner communications.
 
-### **DingTalk** (2022.01 - 2022.02)  
+## **DingTalk** (2022.01 - 2022.02)  
 **Operations Assistant Intern**
 - Contributed to user acquisition strategies, generating significant traction and revenue.
 
 ---
 
-## 🎓 Campus Experiences
+# 🎓 Campus Experiences
 
 - **12th National College Automobile Survey Analysis Competition** (2023)
   - National First Prize, focusing on sustainable automobile marketing research.
@@ -56,7 +56,7 @@ I am a Master's student in Marketing at [The University of Hong Kong (HKU)](http
 
 ---
 
-## 🏆 Honors and Awards
+# 🏆 Honors and Awards
 
 - **First-Class Scholarship**, Communication University of China (2023)
 - **National Marketing Competition Winner** (2022)
@@ -64,7 +64,7 @@ I am a Master's student in Marketing at [The University of Hong Kong (HKU)](http
 
 ---
 
-## 💬 Skills
+# 💬 Skills
 
 - **Languages**: English, Mandarin
 - **Technical Tools**: Excel (Advanced), Tableau, SQL, Python, Photoshop, SPSS
@@ -72,14 +72,13 @@ I am a Master's student in Marketing at [The University of Hong Kong (HKU)](http
 
 ---
 
-## 🔗 Contact
+# 🔗 Contact
 
 - **Email**: [yuxuan0281@163.com](mailto:yuxuan0281@163.com)
 - **Phone**: 150-3881-8812
 - **LinkedIn**: [Yuxuan Zheng](https://linkedin.com/in/yuxuanzheng)
 
 
-I'm a last year master student from Electrical and Electronic Engineering, [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. My research interest includes Machine Learning, Noisy Label and LLM.
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
